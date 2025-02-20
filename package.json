@@ -1,6 +1,6 @@
 {
-  "name": "react-native-fingerprint-scanner",
-  "version": "6.0.0",
+  "name": "@scp/react-native-fingerprint-scanner",
+  "version": "1.0.0",
   "description": "React Native Biometrics Scanner for Android and iOS",
   "main": "index.js",
   "keywords": [
@@ -24,8 +24,8 @@
   "peerDependencies": {
     "react-native": ">=0.60 <1.0.0"
   },
-  "homepage": "https://github.com/hieuvp/react-native-fingerprint-scanner#readme",
-  "repository": "https://github.com/hieuvp/react-native-fingerprint-scanner.git",
+  "homepage": "https://github.com/scphealth/react-native-fingerprint-scanner#readme",
+  "repository": "https://github.com/scphealth/react-native-fingerprint-scanner.git",
   "author": "Hieu Van (https://github.com/hieuvp)",
   "license": "MIT",
   "types": "index.d.ts",
